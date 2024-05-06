@@ -1,6 +1,7 @@
 # Looper: A Flexible Background Task Execution Library for Android
-
+ [![](https://jitpack.io/v/codingWiz-rick/Loopers.svg)](https://jitpack.io/#codingWiz-rick/Loopers)
 Looper is a versatile library for Android that simplifies background task execution based on the lifecycle events of a `LifecycleOwner`. It allows you to execute tasks in a loop and control their execution easily.
+
 
 ## Features
 
